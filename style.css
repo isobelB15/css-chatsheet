@@ -1,0 +1,21 @@
+/* CSS Document */
+h1{color: blueviolet;} 
+
+body{
+	background-color:#D58BDD;
+	color:#555555;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 1.6em;
+} 
+p{color:#00CED1;}
+
+.box-1{
+background-color:#00ECFF;
+color:#ffff;
+}
+body{margin:auto;}
+.container {
+	width: 80%;
+}
